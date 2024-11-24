@@ -58,6 +58,7 @@ From raw CSV files to actionable dashboards, showcasing data pipeline expertise.
 
 git clone https://github.com/Yashkashyap619/pizza_sales_analysis.git
 
+
 ***Use the provided SQL scripts to set up the database in MySQL and analyze the data.***
 
 ***-- Basic:***
@@ -80,6 +81,7 @@ git clone https://github.com/Yashkashyap619/pizza_sales_analysis.git
 - Q11. Calculate the percentage contribution of each pizza type to total revenue.
 - Q12. Analyze the cumulative revenue generated over time.
 - Q13. Determine the top 3 most ordered pizza types based on revenue for each pizza category.
+
 
 
 ***Use ODBC Connector to load the data into Power BI and explore the interactive dashboards.***
