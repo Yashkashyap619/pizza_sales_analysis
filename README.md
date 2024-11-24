@@ -88,13 +88,13 @@ From raw CSV files to actionable dashboards, showcasing data pipeline expertise.
 
 
 ### SQL QUERIES
-![SQL Query Q1 -Q3](https://github.com/user-attachments/assets/b642aada-82c0-4cc9-90f1-1f5b7387e0ac)
-![SQL Query Q4 -Q5](https://github.com/user-attachments/assets/0d9154ec-e39f-495e-a6b6-7d088f67d4cf)
-![SQL Query Q6 -Q8](https://github.com/user-attachments/assets/f75121f8-7e4b-4bcc-a6ee-6322966f8d91)
-![SQL Query Q9 -Q10](https://github.com/user-attachments/assets/f05e44b4-3b09-4441-9d06-be5531d75833)
-![SQL Query Q11](https://github.com/user-attachments/assets/169c0e5c-b627-423c-b796-62c7072d9ead)
-![SQL Query Q12](https://github.com/user-attachments/assets/6c559308-2dd8-4bcc-b0ad-46c995143469)
-![SQL Query Q13](https://github.com/user-attachments/assets/4d65a570-9a70-488d-83af-e6fff51e641c)
+<img src="https://github.com/user-attachments/assets/b642aada-82c0-4cc9-90f1-1f5b7387e0ac" alt="SQL Query Q1-Q3" width="400">
+<img src="https://github.com/user-attachments/assets/0d9154ec-e39f-495e-a6b6-7d088f67d4cf" alt="SQL Query Q4-Q5" width="400">
+<img src="https://github.com/user-attachments/assets/f75121f8-7e4b-4bcc-a6ee-6322966f8d91" alt="SQL Query Q6-Q8" width="400">
+<img src="https://github.com/user-attachments/assets/f05e44b4-3b09-4441-9d06-be5531d75833" alt="SQL Query Q9-Q10" width="400">
+<img src="https://github.com/user-attachments/assets/169c0e5c-b627-423c-b796-62c7072d9ead" alt="SQL Query Q11" width="400">
+<img src="https://github.com/user-attachments/assets/6c559308-2dd8-4bcc-b0ad-46c995143469" alt="SQL Query Q12" width="400">
+<img src="https://github.com/user-attachments/assets/4d65a570-9a70-488d-83af-e6fff51e641c" alt="SQL Query Q13" width="400">
 
 
 ### SQL QUERY TO CREATE TABLE
