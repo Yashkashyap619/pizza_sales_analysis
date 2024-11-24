@@ -14,10 +14,10 @@ Pizza Types: Details of pizza categories and ingredients.
 
 # 🔄 Workflow and Tools Used
 Workflow
-1. Data Import:
+### 1. Data Import:
 - Uploaded CSV files into MySQL using the Table Import Wizard.
 
-2. Data Analysis in SQL:
+### 2. Data Analysis in SQL:
 - Solved 13 insightful queries to analyze sales data, including:
 - Total revenue by pizza category and size.
 - Top-selling pizza types.
@@ -26,7 +26,7 @@ Workflow
 - Used JOINS, CTEs, and Window Functions to perform complex data analysis.
 - Created a final SQL query to compile a table with only meaningful insights.
 
-3. Data Visualization in Power BI:
+### 3. Data Visualization in Power BI:
 - Loaded the cleaned and aggregated data from MySQL to Power BI using ODBC Connector.
 - Created an interactive dashboard to visualize:
   Revenue by pizza category and size.
@@ -59,22 +59,19 @@ Use the provided SQL scripts to set up the database in MySQL and analyze the dat
 Use ODBC Connector to load the data into Power BI and explore the interactive dashboards.
 
 # 🖼 Screenshots
-Power BI Dashboard Highlights:
+### Power BI Dashboard Highlights:
 
-Revenue by Pizza Category and Size
-Orders by Hour of Day
-Top-Selling Pizzas
-Average Order Value and Key Metrics
-(Add actual screenshots here by uploading images to your GitHub repository and embedding them using Markdown.)
 
-Example:
+### SQL QUERIES
 
-markdown
+
+### SQL QUERY TO CREATE TABLE
 
 
 
-🙏 Acknowledgments
-Data Source: Pizza Sales Dataset in CSV format.
-Tools Used: MySQL for data analysis, Power BI for visualization.
-Special thanks to the community for providing resources and guidance to improve analytical workflows.
-Feel free to explore, give feedback, and contribute to this repository! If you find it useful, don’t forget to ⭐ this project!
+# 🙏 Acknowledgments
+- Data Source: Pizza Sales Dataset in CSV format.
+- Tools Used: MySQL for data analysis, Power BI for visualization.
+- Special thanks to the community for providing resources and guidance to improve analytical workflows.
+
+***Feel free to explore, give feedback, and contribute to this repository! If you find it useful, don’t forget to ⭐ this project!***
