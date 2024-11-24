@@ -1,11 +1,11 @@
-# ***Pizza Sales Analysis Project*** #
+# ***Pizza Sales Analysis Project***
 
-### 📊 Project Overview ###
+### 📊 Project Overview
 The Pizza Sales Analysis Project is an end-to-end data analysis project that explores pizza sales data to derive meaningful insights and visualize key metrics. The project showcases a comprehensive approach to data analysis, from importing raw data to creating SQL queries and building interactive dashboards.
 
-### 📁 Project Workflow ###
+# ***📁 Project Workflow***
 
-### ***1️⃣ Data Preparation*** ###
+### ***1️⃣ Data Preparation***
 Imported four CSV files into MySQL using the Table Import Wizard.
 Orders: Contains order-level details.
 Order Details: Includes the quantity and type of pizzas ordered.
@@ -28,16 +28,16 @@ Revenue by Size: Insights into small, medium, and large pizza sales.
 Orders by Hour: Visual representation of peak ordering times.
 Top Categories: Analysis of pizza popularity by category and sales.
 
-### 💡 Skills Highlighted ###
+# 💡 Skills Highlighted
 
-1.SQL Analytics: Mastered advanced MySQL functions like Joins, CTEs, and Window Functions.
-2.Data Visualization: Created interactive and visually appealing dashboards using Power BI.
-3.Data Integration: Successfully connected MySQL with Power BI via ODBC for seamless data import.
-4.Analytical Thinking: Transformed raw data into actionable insights for business decisions.
+- SQL Analytics: Mastered advanced MySQL functions like Joins, CTEs, and Window Functions.
+- Data Visualization: Created interactive and visually appealing dashboards using Power BI.
+- Data Integration: Successfully connected MySQL with Power BI via ODBC for seamless data import.
+- Analytical Thinking: Transformed raw data into actionable insights for business decisions.
 
-### 📈 Business Applications ###
+# 📈 Business Applications 
 This project simulates a real-life scenario where a pizza chain analyzes sales trends to optimize inventory, identify peak sales times, and improve customer satisfaction. Businesses can leverage such insights to enhance decision-making, marketing strategies, and overall revenue.
 
-🚀 Explore the Project
+# 🚀 Explore the Project
 GitHub Repository: Project Link
 Screenshots:
