@@ -29,6 +29,7 @@ Orders by Hour: Visual representation of peak ordering times.
 Top Categories: Analysis of pizza popularity by category and sales.
 
 ### 💡 Skills Highlighted ###
+
 1.SQL Analytics: Mastered advanced MySQL functions like Joins, CTEs, and Window Functions.
 2.Data Visualization: Created interactive and visually appealing dashboards using Power BI.
 3.Data Integration: Successfully connected MySQL with Power BI via ODBC for seamless data import.
