@@ -59,25 +59,25 @@ From raw CSV files to actionable dashboards, showcasing data pipeline expertise.
 ***Use the provided SQL scripts to set up the database in MySQL and analyze the data.***
 
 ***-- Basic:***
--- Q1. Retrieve the total number of orders placed.
--- Q2. Calculate the total revenue generated from pizza sales.
--- Q3. Identify the highest-priced pizza.
--- Q4. Identify the most common pizza size ordered.
--- Q5. List the top 5 most ordered pizza types along with their quantities.
+- Q1. Retrieve the total number of orders placed.
+- Q2. Calculate the total revenue generated from pizza sales.
+- Q3. Identify the highest-priced pizza.
+- Q4. Identify the most common pizza size ordered.
+- Q5. List the top 5 most ordered pizza types along with their quantities.
 
 
 ***-- Intermediate:***
--- Q6. Join the necessary tables to find the total quantity of each pizza category ordered.
--- Q7. Determine the distribution of orders by hour of the day.
--- Q8. Join relevant tables to find the category-wise distribution of pizzas.
--- Q9. Group the orders by date and calculate the average number of pizzas ordered per day.
--- Q10. Determine the top 3 most ordered pizza types based on revenue.
+- Q6. Join the necessary tables to find the total quantity of each pizza category ordered.
+- Q7. Determine the distribution of orders by hour of the day.
+- Q8. Join relevant tables to find the category-wise distribution of pizzas.
+- Q9. Group the orders by date and calculate the average number of pizzas ordered per day.
+- Q10. Determine the top 3 most ordered pizza types based on revenue.
 
 
 ***-- Advanced:***
--- Q11. Calculate the percentage contribution of each pizza type to total revenue.
--- Q12. Analyze the cumulative revenue generated over time.
--- Q13. Determine the top 3 most ordered pizza types based on revenue for each pizza category.
+- Q11. Calculate the percentage contribution of each pizza type to total revenue.
+- Q12. Analyze the cumulative revenue generated over time.
+- Q13. Determine the top 3 most ordered pizza types based on revenue for each pizza category.
 
 
 ***Use ODBC Connector to load the data into Power BI and explore the interactive dashboards.***
