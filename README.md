@@ -54,12 +54,12 @@ Comprehensive visualization of pizza sales performance, including revenue, sales
 From raw CSV files to actionable dashboards, showcasing data pipeline expertise.
 
 # 🚀 How to Use
-***Clone this repository to your local machine.***
+***- Clone this repository to your local machine.***
 
 git clone https://github.com/Yashkashyap619/pizza_sales_analysis.git
 
 
-***Use the provided SQL scripts to set up the database in MySQL and analyze the data.***
+***- Use the provided SQL scripts to set up the database in MySQL and analyze the data.***
 
 ***-- Basic:***
 - Q1. Retrieve the total number of orders placed.
@@ -84,7 +84,7 @@ git clone https://github.com/Yashkashyap619/pizza_sales_analysis.git
 
 
 
-***Use ODBC Connector to load the data into Power BI and explore the interactive dashboards.***
+***- Use ODBC Connector to load the data into Power BI and explore the interactive dashboards.***
 
 # 🖼 Screenshots
 ### Power BI Dashboard Highlights:
