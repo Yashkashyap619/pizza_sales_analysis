@@ -55,6 +55,7 @@ From raw CSV files to actionable dashboards, showcasing data pipeline expertise.
 
 # 🚀 How to Use
 ***Clone this repository to your local machine.***
+git clone https://github.com/Yashkashyap619/pizza_sales_analysis.git
 
 ***Use the provided SQL scripts to set up the database in MySQL and analyze the data.***
 
